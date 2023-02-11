@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>YOHANA WAVENZA</title>
+</head>
+<body>
+<h1>Wavenza Health collage</h1>
+<p>HEALTH COLLAGE.</p>
+<table>
+  <tr>
+    <th>Collage</th>
+    <th>Contact</th>
+    <th>Coarse</th>
+    <a href="https://www.wavenza.com">Visit Yohana wavenza</a>
+  </tr>
+  <tr>
+    <td>bachelor</td>
+    <td>certificate</td>
+    <td>diploma</td>
+  </tr>
+  <tr>
+    <td>coarse name</td>
+    <td>fees structure</td>
+    <td>collage summary</td>
+  </tr>
+</table>
+</body>
+</html>
